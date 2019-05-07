@@ -1,0 +1,6 @@
+.square {
+    width: 50vmin;
+    height: 50vmin;
+    margin: calc(50vh - 25vmin) calc(50vw - 25vmin);
+    background: #000;
+}
